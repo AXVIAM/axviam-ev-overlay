@@ -1,0 +1,102 @@
+[
+  {
+    "cell_index": 0,
+    "restored_psi": 0.8,
+    "restored_tension": 0.797
+  },
+  {
+    "cell_index": 0,
+    "restored_psi": 0.787,
+    "restored_tension": 0.792
+  },
+  {
+    "cell_index": 0,
+    "restored_psi": 0.773,
+    "restored_tension": 0.787
+  },
+  {
+    "cell_index": 0,
+    "restored_psi": 0.78,
+    "restored_tension": 0.795
+  },
+  {
+    "cell_index": 1,
+    "restored_psi": 0.813,
+    "restored_tension": 0.805
+  },
+  {
+    "cell_index": 1,
+    "restored_psi": 0.8,
+    "restored_tension": 0.8
+  },
+  {
+    "cell_index": 1,
+    "restored_psi": 0.787,
+    "restored_tension": 0.79
+  },
+  {
+    "cell_index": 1,
+    "restored_psi": 0.793,
+    "restored_tension": 0.797
+  },
+  {
+    "cell_index": 2,
+    "restored_psi": 0.827,
+    "restored_tension": 0.812
+  },
+  {
+    "cell_index": 2,
+    "restored_psi": 0.807,
+    "restored_tension": 0.802
+  },
+  {
+    "cell_index": 2,
+    "restored_psi": 0.793,
+    "restored_tension": 0.792
+  },
+  {
+    "cell_index": 2,
+    "restored_psi": 0.8,
+    "restored_tension": 0.807
+  },
+  {
+    "cell_index": 3,
+    "restored_psi": 0.787,
+    "restored_tension": 0.81
+  },
+  {
+    "cell_index": 3,
+    "restored_psi": 0.773,
+    "restored_tension": 0.802
+  },
+  {
+    "cell_index": 3,
+    "restored_psi": 0.767,
+    "restored_tension": 0.8
+  },
+  {
+    "cell_index": 3,
+    "restored_psi": 0.78,
+    "restored_tension": 0.805
+  },
+  {
+    "cell_index": 4,
+    "restored_psi": 0.82,
+    "restored_tension": 0.818
+  },
+  {
+    "cell_index": 4,
+    "restored_psi": 0.807,
+    "restored_tension": 0.81
+  },
+  {
+    "cell_index": 4,
+    "restored_psi": 0.793,
+    "restored_tension": 0.8
+  },
+  {
+    "cell_index": 4,
+    "restored_psi": 0.8,
+    "restored_tension": 0.812
+  }
+]

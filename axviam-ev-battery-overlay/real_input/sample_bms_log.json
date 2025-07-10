@@ -1,0 +1,28 @@
+
+
+[
+  { "timestamp": "2025-07-01T08:00:00Z", "cell_id": 0, "voltage": 3.70, "temperature": 28.1 },
+  { "timestamp": "2025-07-02T08:00:00Z", "cell_id": 0, "voltage": 3.68, "temperature": 28.3 },
+  { "timestamp": "2025-07-03T08:00:00Z", "cell_id": 0, "voltage": 3.66, "temperature": 28.5 },
+  { "timestamp": "2025-07-04T08:00:00Z", "cell_id": 0, "voltage": 3.67, "temperature": 28.2 },
+
+  { "timestamp": "2025-07-01T08:00:00Z", "cell_id": 1, "voltage": 3.72, "temperature": 27.8 },
+  { "timestamp": "2025-07-02T08:00:00Z", "cell_id": 1, "voltage": 3.70, "temperature": 28.0 },
+  { "timestamp": "2025-07-03T08:00:00Z", "cell_id": 1, "voltage": 3.68, "temperature": 28.4 },
+  { "timestamp": "2025-07-04T08:00:00Z", "cell_id": 1, "voltage": 3.69, "temperature": 28.1 },
+
+  { "timestamp": "2025-07-01T08:00:00Z", "cell_id": 2, "voltage": 3.74, "temperature": 27.5 },
+  { "timestamp": "2025-07-02T08:00:00Z", "cell_id": 2, "voltage": 3.71, "temperature": 27.9 },
+  { "timestamp": "2025-07-03T08:00:00Z", "cell_id": 2, "voltage": 3.69, "temperature": 28.3 },
+  { "timestamp": "2025-07-04T08:00:00Z", "cell_id": 2, "voltage": 3.70, "temperature": 27.7 },
+
+  { "timestamp": "2025-07-01T08:00:00Z", "cell_id": 3, "voltage": 3.68, "temperature": 27.6 },
+  { "timestamp": "2025-07-02T08:00:00Z", "cell_id": 3, "voltage": 3.66, "temperature": 27.9 },
+  { "timestamp": "2025-07-03T08:00:00Z", "cell_id": 3, "voltage": 3.65, "temperature": 28.0 },
+  { "timestamp": "2025-07-04T08:00:00Z", "cell_id": 3, "voltage": 3.67, "temperature": 27.8 },
+
+  { "timestamp": "2025-07-01T08:00:00Z", "cell_id": 4, "voltage": 3.73, "temperature": 27.3 },
+  { "timestamp": "2025-07-02T08:00:00Z", "cell_id": 4, "voltage": 3.71, "temperature": 27.6 },
+  { "timestamp": "2025-07-03T08:00:00Z", "cell_id": 4, "voltage": 3.69, "temperature": 28.0 },
+  { "timestamp": "2025-07-04T08:00:00Z", "cell_id": 4, "voltage": 3.70, "temperature": 27.5 }
+]

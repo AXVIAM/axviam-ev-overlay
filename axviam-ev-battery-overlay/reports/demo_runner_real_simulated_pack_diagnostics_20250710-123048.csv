@@ -1,0 +1,2 @@
+miles_driven,total_consumed_kWh,capacity_loss_kWh,efficiency,remaining_capacity_kWh,cycle_count
+100,25.0,0.377,0.99,74.94,0.44
